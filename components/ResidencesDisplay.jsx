@@ -21,7 +21,7 @@ function ResidencesDisplay() {
         </div>
 
         <div style={{marginTop:'30px'}} className='btn-area'>
-          <button className="btn" href="https://forms.zohopublic.com/comexhomeske/form/RegisterInterest/formperma/7wXJJDmAVtNawQnmdJtmttbH5S_RZ8S1nq8bCTVRjAI" >register interests</button>
+          <button className="btn">register interests</button>
         </div>
 
     </div>
