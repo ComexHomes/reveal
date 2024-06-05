@@ -89,7 +89,7 @@ space and architectural sophistication.</p>
 world class amenities, The Reveal</p>
 
                 <p>has an exquisite collection of Spacious
-studios ranging from Junior Studios to Deluxe Studios</p>
+studios ranging from Convertible Studios to Junior Studios</p>
             </div>
         </div>
         <div className="bottom-layer">
