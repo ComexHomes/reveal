@@ -36,7 +36,7 @@ function Enquirestrip() {
       <div className="btn-area">
         <div className="place">
           <Link
-            href="https://share-eu1.hsforms.com/1LcZAa3CaT0-6ukDcxYncXgfblz8"
+            href="https://forms.zohopublic.com/comexhomeske/form/RegisterInterest/formperma/7wXJJDmAVtNawQnmdJtmttbH5S_RZ8S1nq8bCTVRjAI"
             target="_blank"
           >
             <button className="btn">register interest</button>
